@@ -1,6 +1,8 @@
 #  BCD_7SEGMENT
 # AIM
 To design and simulate BCD 7 Segment using vivado.
+# Software Required:
+vivado 2023.2 software.
 # PROCEDURE
 STEP:1 Start the vivado software, Select and Name the New project.
 
@@ -56,6 +58,5 @@ endmodule
 
 # RESULT
 Thus the BCD 7 Segment is verified succcessfully.
-2:15 PM
 
 
